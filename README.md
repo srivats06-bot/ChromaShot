@@ -59,7 +59,7 @@ Examples include:
 
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Engine**
 
