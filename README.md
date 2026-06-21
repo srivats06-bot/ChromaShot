@@ -6,7 +6,7 @@ The game introduces a unique twist: **shooting enemies with the wrong color make
 
 ## Live Stats
 
-* Published online
+* Published for playtesting
 * **300+ plays on CrazyGames**
 
 ---
